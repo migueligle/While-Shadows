@@ -76,6 +76,5 @@ arrancamos el servicio:
 
 - yarn serve
 
-#####  Por último, también se dispone de una memoria donde se detalla más todo el proceso.
-
+#####  Por último, Para más detalles, consulta la [documentación completa](https://github.com/migueligle/While-Shadows/blob/089c98486badcb7281dddd6878224eaced8763d3/memoria-2023-miguel-iglesias-asir.pdf).
 
