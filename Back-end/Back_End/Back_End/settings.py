@@ -194,4 +194,4 @@ EMAIL_HOST="smtp.gmail.com"
 EMAIL_USE_TLS=True
 EMAIL_PORT=587
 EMAIL_HOST_USER = 'WhileShadows@gmail.com' 
-EMAIL_HOST_PASSWORD = 'msag ytlb unlf mzcd'
+EMAIL_HOST_PASSWORD = ''

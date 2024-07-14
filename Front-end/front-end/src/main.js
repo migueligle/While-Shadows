@@ -26,12 +26,12 @@ Vue.use(VueRouter)
 Vue.use(VueMoment, { moment })
 Vue.use(VueGoogleMaps, {
   load: {
-    key: 'AIzaSyCuVM1qVe_1a-5UAxdXZqpCPXHEtgtMNLk',
+    key: 'key',
     libraries: 'places'
   }
 })
 Vue.use(StripePlugin, {
-  pk: 'pk_test_51OxXeP02hr5TD5IU9dRXoLCoojmKkVxQB2ePc7aab0UNp2NXdjeoBIYwLyRV2iqRDbrvB3B29LYAXF9o6Acd4bxq00hOylRB2u'
+  pk: 'key'
 })
 
 new Vue({
